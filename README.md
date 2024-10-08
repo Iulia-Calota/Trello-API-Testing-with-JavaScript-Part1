@@ -5,7 +5,6 @@ This repository demonstrates Trello API testing using Postman and JavaScript. It
 
 In September 2024, I completed an API Automation course focused on JavaScript and Postman. This project represents the manual testing phase of the Trello API before moving on to automation with CI/CD pipeline.
 
-bine bien
  ----------------------
 
 - #### Start Date: September 2024
